@@ -35,11 +35,3 @@ Le bot affiche aussi les 100 derniers messages de chaques salons textuels
 3. Tapez le numéro d'un serveur pour afficher les salons textuels et les membres en vocal de ce serveur.
 
 4. Vous pouvez également taper "q" pour quitter le script.
-
-# Licence 📄
-
-N'oubliez pas de remplacer "votre-utilisateur/nom-du-depot" par le nom de votre utilisateur GitHub et le nom de votre dépôt, et d'ajouter les informations spécifiques à votre projet dans la section "Prérequis" et "Utilisation".
-
-Assurez-vous d'inclure un fichier `LICENSE` dans votre dépôt GitHub pour spécifier la licence sous laquelle votre projet est distribué.
-
-J'espère que cela vous aide! N'hésitez pas à me demander si vous avez d'autres questions.
