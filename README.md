@@ -12,9 +12,6 @@ Le bot affiche aussi les 100 derniers messages de chaques salons textuels
 
 1. Clonez le dépôt GitHub :
 
-   ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-depot.git
-
 2. Accédez au répertoire du projet :
     ```bash cd nom-du-depot```
     
